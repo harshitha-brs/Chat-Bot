@@ -21,7 +21,7 @@ const openAiUrl = "https://api.openai.com/v1/chat/completions";
 // set Headers
 const headers = {
   "Content-Type": "application/json",
-  "Authorization": `Bearer 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`
+  "Authorization": `Bearer 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`
 };
 
 // toggle class for collapsible
